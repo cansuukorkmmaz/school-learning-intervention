@@ -1,0 +1,61 @@
+student_id,scenario,topic_id,expected_signal,notes
+S006,BROAD_DIFFICULTY,,BROAD_DIFFICULTY,ability 38-45 on every topic
+S027,BROAD_DIFFICULTY,,BROAD_DIFFICULTY,ability 38-45 on every topic
+S045,BROAD_DIFFICULTY,,BROAD_DIFFICULTY,ability 38-45 on every topic
+S052,BROAD_DIFFICULTY,,BROAD_DIFFICULTY,ability 38-45 on every topic
+S021,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S022,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S023,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S024,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S025,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S026,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S027,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S028,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S029,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S030,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S031,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S032,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S033,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S034,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S035,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S036,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S037,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S038,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S039,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S040,CLASS_WIDE_DERIV,DERIV,CLASS_WIDE,whole class 22 pts lower on DERIV
+S001,DECLINING_TREND,,DECLINING,-1.5 pts/week
+S017,DECLINING_TREND,,DECLINING,-1.5 pts/week
+S024,DECLINING_TREND,,DECLINING,-1.5 pts/week
+S035,DECLINING_TREND,,DECLINING,-1.5 pts/week
+S004,FUNC_COMPARISON,FUNC,NO_CLEAR_CHANGE,"gap -37, drift +3 without session"
+S012,FUNC_COMPARISON,FUNC,NO_CLEAR_CHANGE,"gap -36, drift +5 without session"
+S018,FUNC_COMPARISON,FUNC,NO_CLEAR_CHANGE,"gap -38, drift +3 without session"
+S025,FUNC_COMPARISON,FUNC,NO_CLEAR_CHANGE,"gap -37, drift +2 without session"
+S030,FUNC_COMPARISON,FUNC,NO_CLEAR_CHANGE,"gap -37, drift +5 without session"
+S039,FUNC_COMPARISON,FUNC,NO_CLEAR_CHANGE,"gap -37, drift +2 without session; approved but did not attend"
+S009,FUNC_PARTICIPANT_NONRESPONDER,FUNC,NO_CLEAR_CHANGE,"gap -39, boost +1 after session"
+S038,FUNC_PARTICIPANT_NONRESPONDER,FUNC,NO_CLEAR_CHANGE,"gap -39, boost -2 after session"
+S002,FUNC_PARTICIPANT_RESPONDER,FUNC,IMPROVED,"gap -35, boost +20 after session"
+S005,FUNC_PARTICIPANT_RESPONDER,FUNC,IMPROVED,"gap -33, boost +16 after session"
+S016,FUNC_PARTICIPANT_RESPONDER,FUNC,IMPROVED,"gap -33, boost +23 after session"
+S022,FUNC_PARTICIPANT_RESPONDER,FUNC,IMPROVED,"gap -32, boost +21 after session"
+S026,FUNC_PARTICIPANT_RESPONDER,FUNC,IMPROVED,"gap -36, boost +16 after session"
+S033,FUNC_PARTICIPANT_RESPONDER,FUNC,IMPROVED,"gap -35, boost +22 after session"
+S008,IMPROVING_TREND,,IMPROVING,+1.5 pts/week
+S013,IMPROVING_TREND,,IMPROVING,+1.5 pts/week
+S029,IMPROVING_TREND,,IMPROVING,+1.5 pts/week
+S034,IMPROVING_TREND,,IMPROVING,+1.5 pts/week
+S015,MISSING_ATTENDANCE,,NO_SCORE_ROW,"absent for 10A-04; no row, never 0"
+S021,MISSING_ATTENDANCE,,NO_SCORE_ROW,"absent for 10B-06; no row, never 0"
+S044,MISSING_ATTENDANCE,,NO_SCORE_ROW,"absent for 10C-03; no row, never 0"
+S010,SINGLE_LOW_OBS,DERIV,WATCH,only one DERIV score (missed 10A-06); must not be a confident gap
+S019,SINGLE_LOW_OBS,DERIV,WATCH,only one DERIV score (missed 10A-06); must not be a confident gap
+S003,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 39 pts below own level
+S007,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 39 pts below own level
+S011,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 39 pts below own level
+S014,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 34 pts below own level
+S018,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 40 pts below own level
+S023,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 33 pts below own level
+S028,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 40 pts below own level
+S031,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 38 pts below own level
+S036,TRIG_GAP,TRIG,SPECIFIC_GAP,Trig planted 33 pts below own level

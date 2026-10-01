@@ -1,0 +1,21 @@
+assessment_id,class_id,assessment_name,assessment_type,date
+10A-01,10A,Quiz 1,quiz,2025-09-26
+10A-02,10A,Quiz 2,quiz,2025-10-10
+10A-03,10A,Quiz 3,quiz,2025-10-17
+10A-04,10A,Midterm,midterm,2025-11-07
+10A-05,10A,Quiz 4,quiz,2025-11-28
+10A-06,10A,Quiz 5,quiz,2025-12-05
+10A-07,10A,Mock Exam,mock,2025-12-19
+10B-01,10B,Quiz 1,quiz,2025-09-26
+10B-02,10B,Quiz 2,quiz,2025-10-10
+10B-03,10B,Quiz 3,quiz,2025-10-17
+10B-04,10B,Midterm,midterm,2025-11-07
+10B-05,10B,Quiz 4,quiz,2025-11-28
+10B-06,10B,Quiz 5,quiz,2025-12-05
+10B-07,10B,Mock Exam,mock,2025-12-19
+10C-01,10C,Quiz 1,quiz,2025-09-26
+10C-02,10C,Quiz 2,quiz,2025-10-17
+10C-03,10C,Midterm,midterm,2025-11-07
+10C-04,10C,Quiz 3,quiz,2025-11-21
+10C-05,10C,Quiz 4,quiz,2025-12-12
+10C-06,10C,Mock Exam,mock,2025-12-19

@@ -1,0 +1,21 @@
+analysis:
+  half_life_days: 42
+  abs_threshold: 50
+  rel_gap_min: 15
+  class_gap_min: 10
+  min_other_topics: 2
+  min_class_n: 5
+  broad_share: 0.5
+  broad_min_topics: 4
+  noise_sd_cutoff: 15
+  severity_cutoffs: [25, 35]
+  trend_change_threshold: 10
+  min_topic_trend_observations: 3
+  min_overall_trend_assessments: 4
+recommendation:
+  min_group_size: 4
+  max_group_size: 12
+  cross_class_min_severity: moderate
+  min_days_remaining: 7
+  class_wide_share: 0.40
+  class_median_threshold: 55

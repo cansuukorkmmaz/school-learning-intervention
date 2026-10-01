@@ -1,0 +1,18 @@
+student_id,topic_id,host_class_id,host_teacher_id,compatible_slots,seats_available,match_status,reason
+S004,FUNC,10B,T02,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.
+S007,TRIG,10C,T03,Fri P4; Thu P2; Tue P3,4,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+S011,TRIG,10C,T03,Fri P4; Thu P2; Tue P3,3,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+S014,TRIG,10C,T03,Fri P4; Thu P2; Tue P3,2,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+S018,FUNC,10B,T02,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.
+S018,TRIG,10C,T03,Fri P4; Thu P2; Tue P3,1,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+S030,FUNC,10A,T01,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.
+S031,TRIG,10C,T03,,0,NO_MATCH_SCHEDULE,Host lessons overlap with the student's home-class timetable.
+S038,FUNC,10A,T01,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.
+S003,TRIG,10C,T03,,0,NO_CAPACITY,No seats remain in the host class.
+S005,FUNC,10B,T02,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.
+S009,FUNC,10B,T02,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.
+S012,FUNC,10B,T02,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.
+S023,TRIG,10C,T03,,0,NO_MATCH_SCHEDULE,Host lessons overlap with the student's home-class timetable.
+S028,TRIG,10C,T03,,0,NO_MATCH_SCHEDULE,Host lessons overlap with the student's home-class timetable.
+S036,TRIG,10C,T03,,0,NO_MATCH_SCHEDULE,Host lessons overlap with the student's home-class timetable.
+S039,FUNC,10A,T01,,0,NO_MATCH_TOPIC,Host class is not currently teaching this topic.

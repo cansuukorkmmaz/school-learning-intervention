@@ -1,0 +1,4 @@
+class_id,class_name,grade_level,subject_id,teacher_id,capacity
+10A,Grade 10A Mathematics,10,MATH,T01,24
+10B,Grade 10B Mathematics,10,MATH,T02,24
+10C,Grade 10C Mathematics,10,MATH,T03,24

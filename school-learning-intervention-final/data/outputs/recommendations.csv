@@ -1,0 +1,51 @@
+recommendation_id,recommendation_type,student_id,topic_id,group_id,host_class_id,status,rationale
+R1_S004_FUNC,TARGETED_PRACTICE,S004,FUNC,,,SUGGESTED,"FUNC score 22.4 is 38.5 points below the student's topic baseline (60.8), with 6.0 observations."
+R1_S007_TRIG,TARGETED_PRACTICE,S007,TRIG,,,SUGGESTED,"TRIG score 31.5 is 41.6 points below the student's topic baseline (73.1), with 3.0 observations."
+R1_S014_TRIG,TARGETED_PRACTICE,S014,TRIG,,,SUGGESTED,"TRIG score 23.3 is 43.1 points below the student's topic baseline (66.5), with 3.0 observations."
+R1_S018_TRIG,TARGETED_PRACTICE,S018,TRIG,,,SUGGESTED,"TRIG score 24.2 is 38.7 points below the student's topic baseline (62.8), with 3.0 observations."
+R1_S031_TRIG,TARGETED_PRACTICE,S031,TRIG,,,SUGGESTED,"TRIG score 13.6 is 45.5 points below the student's topic baseline (59.1), with 3.0 observations."
+R1_S038_FUNC,TARGETED_PRACTICE,S038,FUNC,,,SUGGESTED,"FUNC score 15.1 is 38.9 points below the student's topic baseline (54.0), with 6.0 observations."
+R1_S003_TRIG,TARGETED_PRACTICE,S003,TRIG,,,SUGGESTED,"TRIG score 28.8 is 32.0 points below the student's topic baseline (60.8), with 3.0 observations."
+R1_S009_FUNC,TARGETED_PRACTICE,S009,FUNC,,,SUGGESTED,"FUNC score 28.8 is 34.9 points below the student's topic baseline (63.7), with 6.0 observations."
+R1_S012_FUNC,TARGETED_PRACTICE,S012,FUNC,,,SUGGESTED,"FUNC score 31.5 is 30.9 points below the student's topic baseline (62.5), with 6.0 observations."
+R1_S023_TRIG,TARGETED_PRACTICE,S023,TRIG,,,SUGGESTED,"TRIG score 28.9 is 29.9 points below the student's topic baseline (58.8), with 3.0 observations."
+R1_S028_TRIG,TARGETED_PRACTICE,S028,TRIG,,,SUGGESTED,"TRIG score 26.8 is 32.7 points below the student's topic baseline (59.4), with 3.0 observations."
+R1_S036_TRIG,TARGETED_PRACTICE,S036,TRIG,,,SUGGESTED,"TRIG score 25.8 is 29.8 points below the student's topic baseline (55.6), with 3.0 observations."
+R1_S039_FUNC,TARGETED_PRACTICE,S039,FUNC,,,SUGGESTED,"FUNC score 29.9 is 31.3 points below the student's topic baseline (61.1), with 6.0 observations."
+R1_S025_FUNC,TARGETED_PRACTICE,S025,FUNC,,,SUGGESTED,"FUNC score 39.8 is 15.9 points below the student's topic baseline (55.7), with 6.0 observations."
+R1_S031_DERIV,TARGETED_PRACTICE,S031,DERIV,,,SUGGESTED,"DERIV score 36.3 is 22.8 points below the student's topic baseline (59.1), with 2.0 observations."
+R1_S037_DERIV,TARGETED_PRACTICE,S037,DERIV,,,SUGGESTED,"DERIV score 33.9 is 21.5 points below the student's topic baseline (55.3), with 2.0 observations."
+R1_S038_DERIV,TARGETED_PRACTICE,S038,DERIV,,,SUGGESTED,"DERIV score 36.5 is 17.6 points below the student's topic baseline (54.0), with 2.0 observations."
+R2_GRP_FUNC_01_S004,SUPPORT_SESSION,S004,FUNC,GRP_FUNC_01,,SUGGESTED,6 students share an actionable FUNC gap; group average is 27.9.
+R2_GRP_FUNC_01_S009,SUPPORT_SESSION,S009,FUNC,GRP_FUNC_01,,SUGGESTED,6 students share an actionable FUNC gap; group average is 27.9.
+R2_GRP_FUNC_01_S012,SUPPORT_SESSION,S012,FUNC,GRP_FUNC_01,,SUGGESTED,6 students share an actionable FUNC gap; group average is 27.9.
+R2_GRP_FUNC_01_S025,SUPPORT_SESSION,S025,FUNC,GRP_FUNC_01,,SUGGESTED,6 students share an actionable FUNC gap; group average is 27.9.
+R2_GRP_FUNC_01_S038,SUPPORT_SESSION,S038,FUNC,GRP_FUNC_01,,SUGGESTED,6 students share an actionable FUNC gap; group average is 27.9.
+R2_GRP_FUNC_01_S039,SUPPORT_SESSION,S039,FUNC,GRP_FUNC_01,,SUGGESTED,6 students share an actionable FUNC gap; group average is 27.9.
+R2_GRP_TRIG_01_S003,SUPPORT_SESSION,S003,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R2_GRP_TRIG_01_S007,SUPPORT_SESSION,S007,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R2_GRP_TRIG_01_S014,SUPPORT_SESSION,S014,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R2_GRP_TRIG_01_S018,SUPPORT_SESSION,S018,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R2_GRP_TRIG_01_S023,SUPPORT_SESSION,S023,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R2_GRP_TRIG_01_S028,SUPPORT_SESSION,S028,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R2_GRP_TRIG_01_S031,SUPPORT_SESSION,S031,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R2_GRP_TRIG_01_S036,SUPPORT_SESSION,S036,TRIG,GRP_TRIG_01,,SUGGESTED,8 students share an actionable TRIG gap; group average is 25.4.
+R3_S007_TRIG,CROSS_CLASS_ATTENDANCE,S007,TRIG,,10C,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+R3_S011_TRIG,CROSS_CLASS_ATTENDANCE,S011,TRIG,,10C,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+R3_S014_TRIG,CROSS_CLASS_ATTENDANCE,S014,TRIG,,10C,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+R3_S018_TRIG,CROSS_CLASS_ATTENDANCE,S018,TRIG,,10C,SUGGESTED,"Compatible slots: Fri P4, Thu P2, Tue P3."
+R4_S006,TEACHER_REVIEW,S006,,,,SUGGESTED,Low performance across 5 assessed topics; topic-specific intervention may not address the broader pattern.
+R4_S027,TEACHER_REVIEW,S027,,,,SUGGESTED,Low performance across 5 assessed topics; topic-specific intervention may not address the broader pattern.
+R4_S045,TEACHER_REVIEW,S045,,,,SUGGESTED,Low performance across 4 assessed topics; topic-specific intervention may not address the broader pattern.
+R4_S048,TEACHER_REVIEW,S048,,,,SUGGESTED,Low performance across 4 assessed topics; topic-specific intervention may not address the broader pattern.
+R4_S052,TEACHER_REVIEW,S052,,,,SUGGESTED,Low performance across 4 assessed topics; topic-specific intervention may not address the broader pattern.
+R5_10B_DERIV,CLASS_WIDE_INSIGHT,,DERIV,,10B,INFORMATIONAL,Class median is 47.2; 40% of analyzed students show a gap-related flag.
+R6_S010_DERIV,MONITOR,S010,DERIV,,,INFORMATIONAL,"Monitor DERIV: category=WATCH, confidence=low, observations=1.0."
+R6_S019_DERIV,MONITOR,S019,DERIV,,,INFORMATIONAL,"Monitor DERIV: category=WATCH, confidence=low, observations=1.0."
+R6_S021_DERIV,MONITOR,S021,DERIV,,,INFORMATIONAL,"Monitor DERIV: category=WATCH, confidence=low, observations=1.0."
+R6_S022_DERIV,MONITOR,S022,DERIV,,,INFORMATIONAL,"Monitor DERIV: category=WATCH, confidence=medium, observations=2.0."
+R6_S022_FUNC,MONITOR,S022,FUNC,,,INFORMATIONAL,"Monitor FUNC: category=WATCH, confidence=high, observations=6.0."
+R6_S025_DERIV,MONITOR,S025,DERIV,,,INFORMATIONAL,"Monitor DERIV: category=WATCH, confidence=medium, observations=2.0."
+R6_S026_DERIV,MONITOR,S026,DERIV,,,INFORMATIONAL,"Monitor DERIV: category=WATCH, confidence=medium, observations=2.0."
+R6_S049_GEO,MONITOR,S049,GEO,,,INFORMATIONAL,"Monitor GEO: category=WATCH, confidence=high, observations=4.0."
+R6_S050_GEO,MONITOR,S050,GEO,,,INFORMATIONAL,"Monitor GEO: category=WATCH, confidence=high, observations=4.0."

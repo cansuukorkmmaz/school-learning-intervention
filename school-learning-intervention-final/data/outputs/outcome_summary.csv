@@ -1,0 +1,2 @@
+intervention_id,topic_id,participant_n,comparison_n,participant_mean_delta,comparison_mean_delta,difference_in_differences,before_group_difference,comparability_warning
+INT_FUNC_01,FUNC,8,5,13.5125,4.099999999999999,9.412500000000001,6.7599999999999945,False

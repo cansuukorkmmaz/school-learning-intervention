@@ -1,0 +1,3 @@
+group_id,topic_id,grade_level,student_ids,student_count,average_score
+GRP_FUNC_01,FUNC,,"['S004', 'S009', 'S012', 'S025', 'S038', 'S039']",6,27.9
+GRP_TRIG_01,TRIG,,"['S003', 'S007', 'S014', 'S018', 'S023', 'S028', 'S031', 'S036']",8,25.4

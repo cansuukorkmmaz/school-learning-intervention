@@ -1,0 +1,10 @@
+class_id,day,period
+10A,Mon,2
+10A,Wed,4
+10A,Fri,1
+10B,Tue,3
+10B,Thu,2
+10B,Fri,4
+10C,Tue,3
+10C,Thu,2
+10C,Fri,4
